@@ -20,4 +20,5 @@ create_symlink_with_backup() {
 
 create_symlink_with_backup "${CURRENT_DIR}/.tmux.conf" ~/.tmux.conf
 create_symlink_with_backup "${CURRENT_DIR}/.zshrc" ~/.zshrc
+create_symlink_with_backup "${CURRENT_DIR}/.p10k.zsh" ~/.p10k.zsh
 create_symlink_with_backup "${CURRENT_DIR}/nvim" ~/.config/nvim
