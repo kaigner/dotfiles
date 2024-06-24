@@ -160,7 +160,7 @@ export BAT_THEME=tokyonight_night
 
 # ---- Eza (better ls) -----
 
-alias ls="eza --icons=always"
+alias ls="eza --icons=always -la"
 
 # ---- TheFuck -----
 
