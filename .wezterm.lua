@@ -10,7 +10,7 @@ config.send_composed_key_when_left_alt_is_pressed = true
 config.font = wezterm.font("MesloLGS Nerd Font Mono")
 config.font_size = 16
 
-config.enable_tab_bar = false
+config.enable_tab_bar = true
 
 config.window_decorations = "RESIZE"
 config.window_background_opacity = 0.8
