@@ -13,6 +13,7 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 
 alias reload-zsh="source ~/.zshrc"
 alias edit-zsh="nvim ~/.zshrc"
+alias tailscale="/Applications/Tailscale.app/Contents/MacOS/Tailscale"
 
 # completion using arrow keys (based on history)
 bindkey '^[[A' history-search-backward
