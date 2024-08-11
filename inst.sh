@@ -22,4 +22,5 @@ create_symlink_with_backup "${CURRENT_DIR}/.tmux.conf" ~/.tmux.conf
 create_symlink_with_backup "${CURRENT_DIR}/.zshrc" ~/.zshrc
 create_symlink_with_backup "${CURRENT_DIR}/.wezterm.lua" ~/.wezterm.lua
 create_symlink_with_backup "${CURRENT_DIR}/.p10k.zsh" ~/.p10k.zsh
-create_symlink_with_backup "${CURRENT_DIR}/nvim" ~/.config/nvim
+create_symlink_with_backup "${CURRENT_DIR}/nvim/" ~/.config/
+create_symlink_with_backup "${CURRENT_DIR}/.config/aerospace/" ~/.config/
