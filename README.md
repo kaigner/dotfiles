@@ -7,6 +7,7 @@ brew install font-meslo-lg-nerd-font
 brew install ripgrep node
 brew install zsh-syntax-highlighting
 brew install jesseduffield/lazygit/lazygit
+brew install --cask nikitabobko/tap/aerospace
 
 brew install fzf
 brew install fd
