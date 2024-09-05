@@ -8,6 +8,7 @@ local config = wezterm.config_builder()
 config.send_composed_key_when_left_alt_is_pressed = true
 
 config.font = wezterm.font("MesloLGS Nerd Font Mono")
+-- config.font = wezterm.font("JetBrainsMonoNL Nerd Font Mono")
 config.font_size = 16
 
 config.enable_tab_bar = true
