@@ -38,8 +38,8 @@ link() {
   echo "  linked: $dst"
 }
 
-#link "vim/.vimrc"      ".vimrc"
-#link "tmux/.tmux.conf" ".tmux.conf"
+link "vim/.vimrc"      ".vimrc"
+link "tmux/.tmux.conf" ".tmux.conf"
 #link "iterm2/com.googlecode.iterm2.plist" \
      #"Library/Preferences/com.googlecode.iterm2.plist"
 
